@@ -85,3 +85,13 @@ No barra superior, no lado direito é possível encontrar o botão para incluir 
 Janela para lançamento de operações/ordens.
 
 ![Incluir Operação](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Incluir%20Ordem.PNG?raw=true "Incluir Operação")
+
+Ao se escolher a opção de **Venda**, é possível (e recomendado) lançar a Referência de Compra daquela operação, (se você não souber, pode clicar na lupa).
+Com isso, o saldo será calculado, evitando erros. 
+
+Quando o
+> saldo atual - quantidade vendida no lançamento = 0 
+
+será lançado uma indicação "#" no lançamento inicial de compra dentro da tabela de **Ordens**, identificando assim que aquela operação foi finalizada e não deverá constar mais no **Acompanhamento da Carteira** na tela **Visão Mercado.**
+
+![Ordem de Venda](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Incluir%20Ordem_Venda.PNG?raw=true "Ordem de Venda")
