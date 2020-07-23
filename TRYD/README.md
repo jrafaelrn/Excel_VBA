@@ -110,3 +110,16 @@ Por fim, é possível acompanhar a carteira em tempo real, com alguns indicadore
 
 
 ![Visão Mercado](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Visao%20Geral.PNG?raw=true "Visão Mercado")
+
+
+------------
+
+![Desempenho](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Desempenho_icon.PNG?raw=true "Desempenho")
+
+Nessa tela você consegue obter os resultados finais de suas operações e avaliar o desempenho de sua estratégia.
+Você pode fazer o acompanhamento individual de cada conta, trocando-as na barra superior.
+
+*As fórmulas estão desbloqueadas para alteração conforme necessidade.*
+
+
+![Desempenho](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Desempenho.PNG?raw=true "Desempenho")
