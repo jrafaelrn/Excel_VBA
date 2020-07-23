@@ -6,7 +6,7 @@
 
 
 
-:tw-1f4c3:	**Requisitos**
+📜	**Requisitos** 📜
 -  Instalar o Tryd e registrar a DLL 
 - Ter uma versão do Microsoft Excel&reg; e habilita-lá para executar macros.
 - Ter uma conexão com a internet para receber as cotações em tempo real do Tryd para o Excel
@@ -15,7 +15,7 @@
 ------------
 
 
-🤔 **Como funciona?**
+🤔 **Como funciona?** 🤔
 
 Ao abrir a planilha, ela será direcionada para a tela abaixo.
 Aqui, a jornada foi pensada no seguinte fluxo (cada item será detalhado posteriormente):
