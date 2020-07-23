@@ -95,3 +95,18 @@ Quando o
 será lançado uma indicação "#" no lançamento inicial de compra dentro da tabela de **Ordens**, identificando assim que aquela operação foi finalizada e não deverá constar mais no **Acompanhamento da Carteira** na tela **Visão Mercado.**
 
 ![Ordem de Venda](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Incluir%20Ordem_Venda.PNG?raw=true "Ordem de Venda")
+
+------------
+
+![Visão Mercado](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Visao%20Geral_icon.PNG?raw=true "Visão Mercado")
+
+Na tela abaixo é possível acompanhar o mercado de forma geral.
+Cada "grupo" de ações pode ser configurado conforme necessidade.
+
+> Na parte superior existe alguns indicadores do mercado e os alertas.
+No meio existem os papéis agrupados por setor.
+Por fim, é possível acompanhar a carteira em tempo real, com alguns indicadores.
+
+
+
+![Visão Mercado](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Visao%20Geral.PNG?raw=true "Visão Mercado")
