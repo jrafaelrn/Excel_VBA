@@ -1,4 +1,4 @@
-###Controle Operacional de Ações no Excel 
+###Controle Operacional de Ações no Excel###
 (integrado com Tryd&reg;)
 
 
@@ -15,7 +15,7 @@
 ------------
 
 
-:tw-1f523:	**Como funciona?**
+🤔 **Como funciona?**
 
 Ao abrir a planilha, ela será direcionada para a tela abaixo.
 Aqui, a jornada foi pensada no seguinte fluxo (cada item será detalhado posteriormente):
