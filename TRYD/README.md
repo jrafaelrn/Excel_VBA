@@ -17,6 +17,8 @@
 
 🤔 **Como funciona?** 🤔
 
+*A planilha está direcionada inicialmente para **operar comprado**, as próximas atualizações poderão contar com uma flexibilização desse modelo.*
+
 Ao abrir a planilha, ela será direcionada para a tela abaixo.
 Aqui, a jornada foi pensada no seguinte fluxo (cada item será detalhado posteriormente):
 1. Antes de mais nada, é feita a ANÁLISE DE RISCO da operação;
@@ -78,3 +80,8 @@ No barra superior, no lado direito é possível encontrar o botão para incluir 
 > É a partir dessa tabela que o **Desempenho** é calculado na planilha.
 
 ![Ordens](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Ordens.PNG?raw=true "Ordens")
+
+
+Janela para lançamento de operações/ordens.
+
+![Incluir Operação](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Incluir%20Ordem.PNG?raw=true "Incluir Operação")
