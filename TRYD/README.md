@@ -53,6 +53,8 @@ Após definido os valores de entrada e saída da operação e analisado se a rel
 
 ![Análise de Risco Detalhada](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Analise%20de%20Risco.PNG?raw=true "Análise de Risco Detalhada")
 
+------------
+
 ![Alertas](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Alertas_icon.PNG?raw=true "Alertas")
 
 A imagem abaixo mostra a tabela de **alertas**.
@@ -60,6 +62,7 @@ Aqui é feito o lançamento quando se clica no botão "ADICIONAR ALERTA" demonst
 
 No grupo **EXECUÇÕES** as datas/horas são preenchidas automaticamente quando os gatilhos são atingidos. 
 
-> A planilha faz a verificação dos valores para gerar os alertas a cada 30 segundos.
+
 
 ![Alertas detalhados](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Alertas.PNG?raw=true "Alertas detalhados")
+> A planilha faz a verificação dos valores para gerar os alertas a cada 30 segundos.
