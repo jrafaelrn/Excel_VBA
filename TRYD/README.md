@@ -30,7 +30,7 @@ Na barra **superior** existem 2 opções:
 
 
 Na barra **lateral** existem as seguintes configurações:
-- **Contas: ** é possível cadastrar as corretoras e as contas com as quais opera
+- **Contas:** é possível cadastrar as corretoras e as contas com as quais opera
 - **Book:** onde é cadastrado os papéis que vocês gostaria de acompanhar
 - **Cotas:** opção disponível para quem opera em fundos de investimento privado e precisa gerir as cotas
 - **Mais configurações:** ajustes e tabelas de suporte para o funcionamento da planilha
