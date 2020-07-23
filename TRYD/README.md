@@ -11,7 +11,7 @@
 - Ter uma versão do Microsoft Excel&reg; e habilita-lá para executar macros.
 - Ter uma conexão com a internet para receber as cotações em tempo real do Tryd para o Excel
 
-
+> Os valores apresentados no arquivo são meramente ilustrativos
 ------------
 
 
