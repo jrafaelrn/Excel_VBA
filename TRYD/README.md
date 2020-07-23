@@ -66,3 +66,15 @@ No grupo **EXECUÇÕES** as datas/horas são preenchidas automaticamente quando 
 
 ![Alertas detalhados](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Alertas.PNG?raw=true "Alertas detalhados")
 > A planilha faz a verificação dos valores para gerar os alertas a cada 30 segundos.
+
+------------
+
+![Ordens](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Ordens_icon.PNG?raw=true "Ordens")
+
+Abaixo a tabela de ordens.
+
+No barra superior, no lado direito é possível encontrar o botão para incluir um nova operação/ordem. Essa opção também pode ser evocada através de outras partes da planilha, mas é possível fazer os lançamentos manuais.
+
+> É a partir dessa tabela que o **Desempenho** é calculado na planilha.
+
+![Ordens](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Ordens.PNG?raw=true "Ordens")
