@@ -48,7 +48,7 @@ Na barra **lateral** existem as seguintes configurações:
 Abaixo se encontram os campos que podem ser ajustados conforme a estratégia de cada investidor, alguns estão comentados dentro da própria planilha .
 
 Após definido os valores de entrada e saída da operação e analisado se a relação **RISCO/RETORNO** está dentro de sua estratégia, você pode:
-	 ⏰ **ADICIONAR UM ALERTA** e quando o papel atingir o **VALOR DISPARO**, uma mensagem de voz será gerada pela planilha.*
-	 (Uma tela de "envio para automatizador" irá aparecer, para que seja possível enviar a ordem para o Tryd lançar no sistema da Bolsa, mas essa função ainda não está funcional, aguardem as próximas versões)*
+	⏰ **ADICIONAR UM ALERTA** e quando o papel atingir o **VALOR DISPARO**, uma mensagem de voz será gerada pela planilha.
+	*(Uma tela de "envio para automatizador" irá aparecer, para que seja possível enviar a ordem para o Tryd lançar no sistema da Bolsa, mas essa função ainda não está funcional, aguardem as próximas versões)*
 
 ![Análise de Risco Detalhada](https://github.com/jrafaelrn/excel_VBA/blob/master/TRYD/HOW_TO/Analise%20de%20Risco.PNG?raw=true "Análise de Risco Detalhada")
